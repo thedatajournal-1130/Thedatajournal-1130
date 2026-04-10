@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Dhanshree Patil 👋 
 
-<!--
-**thedatajournal-1130/Thedatajournal-1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst| Turning Data into Insights
+📊 Skilled in Excel, SQL, PowerBi, Tableau and Core Python
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 About Me
+I am a data analytics enthusiast focused on transforming raw data into meaningful insights that help in better decision-making.
+
+I enjoy working on real-world datasets and building dashboards that communicate clear business stories.
+
+🧰 Skills
+Excel – Pivot Tables, Dashboards, Data Cleaning
+SQL – Joins, Aggregations, CTEs
+Power BI / Tableau – Interactive Dashboards
+Python – Pandas, Data Analysis
