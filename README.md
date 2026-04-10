@@ -10,7 +10,11 @@ I am a data analytics enthusiast focused on transforming raw data into meaningfu
 I enjoy working on real-world datasets and building dashboards that communicate clear business stories.
 
 🧰 Skills
+
 Excel – Pivot Tables, Dashboards, Data Cleaning
+
 SQL – Joins, Aggregations, CTEs
+
 Power BI / Tableau – Interactive Dashboards
+
 Python – Pandas, Data Analysis
