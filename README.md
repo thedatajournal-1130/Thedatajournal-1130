@@ -21,3 +21,8 @@ SQL – Joins, Aggregations, CTEs
 Power BI / Tableau – Interactive Dashboards
 
 Python – Pandas, Data Analysis
+
+# Featured Projects
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Blinkit%20Dashboard-F2C811)](https://github.com/Thedatajournal-1130/Blinkit-Sales-Analysis-PowerBI)
+
