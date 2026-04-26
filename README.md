@@ -26,3 +26,6 @@ Python – Pandas, Data Analysis
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Blinkit%20Dashboard-F2C811)](https://github.com/Thedatajournal-1130/Blinkit-Sales-Analysis-PowerBI)
 
+[![Power_BI](https://img.shields.io/badge/Power%20BI-CoffeeShop%20Dashboard-6F4E37)](https://github.com/thedatajournal-1130/CoffeeShop_Sales_Analysis_PowerBI)
+
+
