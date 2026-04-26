@@ -5,14 +5,14 @@
 📊 Skilled in Excel, SQL, PowerBi, Tableau and Core Python
 
 
-💡 About Me
+# 💡 About Me
 
 I am a data analytics enthusiast focused on transforming raw data into meaningful insights that help in better decision-making.
 
 
 I enjoy working on real-world datasets and building dashboards that communicate clear business stories.
 
-🧰 Skills
+# 🧰 Skills
 
 Excel – Pivot Tables, Dashboards, Data Cleaning
 
