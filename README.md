@@ -36,4 +36,5 @@ Python – Pandas, Data Analysis
 
 [![Power_BI](https://img.shields.io/badge/Power%20BI-CoffeeShop%20Dashboard-6F4E37)](https://github.com/thedatajournal-1130/CoffeeShop_Sales_Analysis_PowerBI)
 
-
+# 📈 Tableau 
+[![Tableau](https://img.shields.io/badge/Tableau%20-Electric_Vehicle_Trends_Analysis-E97627)](https://github.com/thedatajournal-1130/Electric_Vehicle_Trends_Analysis_Tableau)
