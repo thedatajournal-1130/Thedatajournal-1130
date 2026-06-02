@@ -31,6 +31,8 @@ Python – Pandas, Data Analysis
 # 🗃️ SQL 
 [![SQL](https://img.shields.io/badge/SQL%20-Larnas_Pizza_Sales_Analysis-DBA87F)](https://github.com/thedatajournal-1130/Larnas-Pizza-Sales-Analysis-SQL)
 
+[![SQL](https://img.shields.io/badge/SQL%20-Healthcare_SQL_Analysis_Project-007BA7)](https://github.com/thedatajournal-1130/Healthcare-SQL-Analysis-Project) 
+
 # 📈 Power BI
 [![Power BI](https://img.shields.io/badge/Power%20BI-Blinkit_Sales_Analysis-F2C811)](https://github.com/thedatajournal-1130/Blinkit_Sales_Analysis-PowerBI)
 
